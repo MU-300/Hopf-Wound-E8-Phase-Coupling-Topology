@@ -1,3 +1,28 @@
+# Hopf-Wound-E8-Phase-Coupling-Topology
+
+## Overview & Core Principles
+
+**Hopf-Wound-E8-Phase-Coupling-Topology** formulates a discrete algebraic architecture governed entirely by cyclic frame rates ($C_n$) and orthogonal projection, without relying on continuum spacetime, continuous potentials, or human-defined metrics.
+
+### 1. Orthogonal Projection as the Sole Selection Rule
+All structural differentiation arises directly from a single algebraic partition:
+
+$$P_1 + P_2 = 1, \qquad P_1 P_2 = 0$$
+
+* **Subgroup Folding ($P_1$):** Discrete exceptional symmetries (such as $E_8$) fold and project onto definite Coxeter subgroups ($H_4, F_4, D_4$) through $P_1$.
+* **Boundary Apoptosis ($P_2$):** Orthogonal degrees of freedom undergo spontaneous elimination—**boundary apoptosis**—condensing into $P_2$ residues without external fields or gravitons.
+
+### 2. Cyclic Frame Rate ($C_n$) & Algebraic Resolution
+Evolution is driven not by linear time, but by discrete cyclic updates governed by $C_n$. Fundamental scale limits (such as the Planck scale) emerge strictly as algebraic resolution boundaries of this discrete lattice rather than as a priori axioms.
+
+### 3. Critical Impedance Matching ($K=0$) & Endless Recursion
+As $P_2$ residues condense, the system transitions across curvature domains ($K < 0 \to K = 0 \to K > 0$). At the $K = 0$ critical medium (isomorphic to the affine $\tilde{E}_8$ lattice and structured $\text{H}_2\text{O}$, supporting $A_4$ chiral seeds), higher-order phase coupling and Hopf fibration winding elevate dimensional closure.
+
+In this architecture, the boundary limit $(P_1, P_2) = (0, 1)$ is never a terminal state. Complete elimination of local $P_1$ degrees of freedom simultaneously establishes the unencumbered initial condition for the subsequent hierarchical re-emergence of local $E_8$, sustaining an endless, self-similar algebraic loop.
+
+---
+
+
 ## 1. Introduction: The Dual Cycle of Reduction and Winding
 **第1章 序論：直交射影縮退と巻き上がりの往還サイクル**
 
