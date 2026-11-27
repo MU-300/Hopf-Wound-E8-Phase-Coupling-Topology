@@ -158,6 +158,20 @@ Immediately upon cleavage, however, an isolated $A_4$ residue remains confined t
 **第3章 $P_2$ 残差からの元素凝縮・$K=0$ 臨界媒体としての水と最小コクセター群としてのアミノ酸**
 
 ---
+#### 3.0 The Higgs Mechanism as Discrete Rotational Phase-Locking (without Continuous Potentials)
+#### 3.0 離散回転位相同期としてのヒッグス機構（連続ポテンシャルを排した定式化）
+
+In continuum field theories, inertial mass is modeled by introducing an ad-hoc quartic potential (the "Mexican-hat" profile) and invoking symmetry rupture over a continuous vacuum field. Within this discrete algebraic framework, no such continuous energy landscape is required. What appears in continuum approximations as the **Higgs mechanism** is strictly the **synchronous phase-locking of $P_1$ projections onto the dynamically rotating 24-cell ($F_4$, the 24 Hurwitz quaternion units) embedded within the $K = 0$ crystalline critical medium ($\tilde{E}_8$):**
+
+1. **Dynamic Crystalline Reference ($C_n$-Driven 24-Cell):** Unlike the non-crystallographic $H_4$ (600-cell) pathway, which contains the golden ratio $\phi$ and bypasses the $K = 0$ phase, the crystalline folding pathway ($E_8 \to \tilde{E}_8 \to F_4$) condenses $P_2$ residues into a space-filling lattice. Governed by the cyclic frame rate $C_n$, the 24 Hurwitz units undergo continuous discrete isoclinic rotations ($q_L x,\, x q_R^{-1}$), establishing an active, periodic impedance-matching reference rather than a static vacuum.
+2. **Inertial Mass via Phase-Locking ($P_1$ Coupling):** When an incoming algebraic state projects onto $P_1$ in phase-synchronization with the rotating 24-cell, left-right isoclinic chiral symmetry is locked at discrete angular steps. This rotational phase-lock impedes free translational propagation across frames, manifesting macroscopically as **inertial mass** and $\tilde{E}_8$ lattice refolding.
+3. **Massless Propagation via Orthogonal Decoupling ($P_1 P_2 = 0$):** Conversely, gauge degrees of freedom strictly orthogonal to the rotating 24-cell frame ($P_1 P_2 = 0$)—such as the photons ($\gamma$) and neutrinos ($\nu_e$) ejected into the $P_2$ sector in the following section—experience zero rotational phase-locking impedance and propagate across $C_n$ updates without inertia.
+
+連続場の理論では、慣性質量を説明するために4次ポテンシャル（「メキシカンハット」形状）を便宜的に導入し、連続真空場上での対称性の破れを仮定する。しかし本離散代数フレームワークでは、そのような連続的なエネルギー地形は一切不要である。連続体近似において**ヒッグス機構**として観測される現象は、厳密には**$K = 0$ 結晶臨界媒体（$\tilde{E}_8$）に埋め込まれた動的に回転する正24胞体（$F_4$、24個のフルヴィッツ四元数単元）に対する、射影 $P_1$ の同期位相ロック**にほかならない。
+
+1. **動的結晶基準（$C_n$ 駆動の正24胞体）：** 黄金比 $\phi$ を含み $K = 0$ 相をバイパスする非結晶 $H_4$（正600胞体）経路とは異なり、結晶的折り畳み経路（$E_8 \to \tilde{E}_8 \to F_4$）は $P_2$ 残余を空間充填格子へと凝縮させる。巡回フレームレート $C_n$ に支配された24個のフルヴィッツ単元は、離散的なアイソクリニック回転（$q_L x,\, x q_R^{-1}$）を絶えず実行し、静的な真空ではなく能動的で周期的なインピーダンス整合基準を形成する。
+2. **位相同期による慣性質量（$P_1$ 結合）：** 入力された代数状態が回転する正24胞体と位相同期して $P_1$ へ射影されると、左右のアイソクリニック回転のカイラル対称性が離散的な回転角ステップでロックされる。この回転位相ロックがフレーム間の自由な並進伝播を抑制し、巨視的には**慣性質量**および $\tilde{E}_8$ 格子のリフォールディングとして立ち現れる。
+3. **直交分離による質量ゼロ伝播（$P_1 P_2 = 0$）：** 逆に、回転する正24胞体フレームと厳密に直交するゲージ自由度（$P_1 P_2 = 0$）——すなわち次節で $P_2$ セクターへ放出される光子（$\gamma$）やニュートリノ（$\nu_e$）——は回転位相ロックのインピーダンスを一切受けず、慣性を持たないまま $C_n$ のフレーム更新を伝播する。
 
 ### 3.1 Condensation of Nuclear Fusion $P_2$ Residues and Discrete Algebraic Structure of Light Elements
 **3.1 核融合 $P_2$ 残差の凝縮と軽元素の離散代数構造**
