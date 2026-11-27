@@ -1,4 +1,3 @@
-# Higher-Order-Phase-Coupling
 # 第1章 序論：直交射影縮退と巻き上がりの往還サイクル
 *(Introduction: The Dual Cycle of Reduction and Winding)*
 
